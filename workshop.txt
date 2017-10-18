@@ -1,6 +1,2 @@
 My first commit.
-<<<<<<< HEAD
 Doing some changes.
-=======
-Let's do some changes here.
->>>>>>> b692cc961d823e46bdd852325126f9672d5d5a9b
